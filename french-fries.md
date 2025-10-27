@@ -5,6 +5,6 @@
 * salt
 * pepper
 * chipotle flakes
-* paprika pulver 
+* paprika powder 
 # Instructions
-peal potatox
+peal potatoes
